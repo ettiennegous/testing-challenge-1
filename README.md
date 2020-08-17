@@ -14,11 +14,12 @@ A testing  challenge to be solved as part of a screening process
 - Design and document test cases for this feature as it appears on [the site](https://www.bunnings.com.au/)
 
 ## Deliverables:
-- Spend as little or as much time as you like :time:
+- Spend as little or as much time as you like :watch: on the challenge, please record the total time you spend on this and include it in your response
 - Please provide the output of your efforts in one of the following formats
   - Excel :chart_with_upwards_trend:
   - Microsoft Word :memo:
   - PDF :scroll:
+- Please email your output back to the person that sent you the challenge :e-mail:
 
 ## Screenshots
 #### Front Page
