@@ -16,9 +16,9 @@ A testing  challenge to be solved as part of a screening process
 - Write test automation scripts for your top 3 test cases   
 
 ## Deliverables:
-- Spend as little or as much time as you like ⌚
+- Spend as little or as much time as you like ⌚ on the challenge, please record the total time you spend on this and include it in your response
 - The code you produce can be in any language ⭐
-- If you complete the automation part of the challenge output of the efforts ❗ must be committed back into a Public Repo in Github and the URL shared back for review.
+- If you complete the automation part of the challenge output of the efforts ❗ must be committed back into a Public Repo(created by you) in Github and the URL shared back for review.
 
 ## Screenshots
 #### Front Page
